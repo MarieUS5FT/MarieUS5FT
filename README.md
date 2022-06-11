@@ -1,5 +1,5 @@
-#👋
-## ✨Welcome✨dear✨visitor✨
+
+# ✨Welcome✨dear✨visitor✨ 👋
 
 things about me:
 - 🔭 I’m currently working on: My skills x)
