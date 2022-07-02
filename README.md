@@ -19,9 +19,11 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm not funny at all
 
+<!--
 # my teacher
 Checkout the account of my brother and teacher:
 ___**<a href="https://github.com/majo418">Majo</a>**___
+--->
 
 # my ascii arts
 ```sh
