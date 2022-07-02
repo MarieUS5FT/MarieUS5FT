@@ -1,7 +1,16 @@
 
-# ✨Welcome✨dear✨visitor✨ 👋
+# ✨welcome✨dear✨visitor✨ 👋
 
-things about me:
+```js
+      .-.                                       .-. 
+        /|/|             .-.     _     .-..--.-'    
+       /   | .-.    ).--.`-' .-.'     (  (  (_)     
+      /    |(  |   /    /  ./.-'_/     )  `-.       
+ .-' /     | `-'-'/  _.(__.(__.'(     / _    )      
+(__.'      `.                    `._.' (_.--'       
+```
+
+# things about me:
 - 🔭 I’m currently working on: My skills x)
 - 🌱 I’m currently learning: Typescript and nodejs
 - 👯 I’m looking to collaborate on: Typescript projects
@@ -10,5 +19,29 @@ things about me:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm not funny at all
 
+# my teacher
+Checkout the account of my brother and teacher:
+___**<a href="https://github.com/majo418">Majo</a>**___
+
+# my ascii arts
+```sh
+     *****   **    **                                                  ***** *    **         *******    
+  ******  ***** *****                             *                 ******  *  *****       *       ***  
+ **   *  *  ***** *****                          ***               **   *  *     *****    *         **  
+*    *  *   * **  * **                            *               *    *  **     * **     **        *   
+    *  *    *     *                ***  ****                          *  ***     *         ***          
+   ** **    *     *        ****     **** **** * ***        ***       **   **     *        ** ***        
+   ** **    *     *       * ***  *   **   ****   ***      * ***      **   **     *         *** ***      
+   ** **    *     *      *   ****    **           **     *   ***     **   **     *           *** ***    
+   ** **    *     *     **    **     **           **    **    ***    **   **     *             *** ***  
+   ** **    *     **    **    **     **           **    ********     **   **     *               ** *** 
+   *  **    *     **    **    **     **           **    *******       **  **     *                ** ** 
+      *     *      **   **    **     **           **    **             ** *      *                 * *  
+  ****      *      **   **    **     ***          **    ****    *       ***      *       ***        *   
+ *  *****           **   ***** **     ***         *** *  *******         ********       *  *********    
+*     **                  ***   **                 ***    *****            ****        *     *****      
+*                                                                                      *                
+ **                                                                                     **               
+```
 
 ✨ _special_ ✨ twinkle twinkle little star!
