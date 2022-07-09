@@ -20,8 +20,8 @@
 - ⚡ Fun fact: I'm not funny at all
 
 # my teacher
-Checkout the account of my brother and teacher:
-___**<a href="https://github.com/majo418">Majo</a>**___
+Checkout the account of my brother and teacher:  
+___**<a href="https://github.com/majo418">Majo</a>**___  
 He can teach u too ;3
 
 # my ascii arts
