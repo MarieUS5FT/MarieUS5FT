@@ -20,9 +20,9 @@
 - ⚡ Fun fact: I'm not funny at all
 
 # my teacher
-Checkout the account of my brother and teacher:  
-___**<a href="https://github.com/majo418">Majo</a>**___  
-He can teach u too ;3
+Checkout the account of my teacher:  
+___**<a href="https://github.com/majo418">Majo418</a>**___  
+Maybe he can also teach you how to use typescript, nodejs and expressjs ;3
 
 # my ascii arts
 ```sh
