@@ -19,7 +19,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm not funny at all
 
-# my teacher
+# my study
 Checkout the account of my teacher: ___**<a href="https://github.com/majo418">Majo418</a>**___  
 Maybe, he can also help you with `TypeScript`, `node.js` and `express.js` ;3
 
