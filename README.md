@@ -11,17 +11,16 @@
 ```
 
 # things about me:
-- 🔭 I’m currently working on: My skills x)
-- 🌱 I’m currently learning: Typescript and nodejs
-- 👯 I’m looking to collaborate on: Typescript projects
-- 🤔 I’m looking for help with: node.js
-- 💬 Ask me about: Javascript
+- 🔭 I’m new on github
+- 🌱 I’m currently learning `TypeScript` and `node.js`
+- 👯 I’m looking to collaborate on some Typescript projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not funny at all
+- ⚡ My nice [`skyline`](https://skyline.github.com/MarieUS5FT/2022)
 
 # my study
-Checkout the account of my teacher: ___**<a href="https://github.com/majo418">Majo418</a>**___  
-Maybe, he can also help you with `TypeScript`, `node.js` and `express.js` ;3
+Checkout the account of my buddy: ___**<a href="https://github.com/majo418">Majo418</a>**___  
+Maybe, he can also help you with `TypeScript`, `node.js` and `express.js`
+He has a little hidden riddle in his profile x3
 
 # my ascii arts
 ```sh
