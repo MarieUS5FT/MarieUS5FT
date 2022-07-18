@@ -20,7 +20,7 @@
 # my study
 Checkout the account of my buddy: ___**<a href="https://github.com/majo418">Majo418</a>**___  
 Maybe, he can also help you with `TypeScript`, `node.js` and `express.js`  
-He has a little hidden riddle in his profile x3
+He has a little `hidden` `riddle` in his profile x3
 
 # my ascii arts
 ```sh
