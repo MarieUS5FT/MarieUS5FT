@@ -11,7 +11,7 @@
 ```
 
 # things about me:
-- 🔭 I’m new on github
+- 🔭 I’m pretty new on github
 - 🌱 I’m currently learning `TypeScript` and `node.js`
 - 👯 I’m looking to collaborate on some Typescript projects
 - 😄 Pronouns: she/her
