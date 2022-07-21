@@ -18,9 +18,9 @@
 - ⚡ My nice [`skyline`](https://skyline.github.com/MarieUS5FT/2022)
 
 # my study
-Checkout the account of my buddy: ___**<a href="https://github.com/majo418">Majo418</a>**___  
+Checkout the account of my buddy: **<a href="https://github.com/majo418">Majo418</a>**  
 Maybe, he can also help you with `TypeScript`, `node.js` and `express.js`  
-He has a little `hidden` `riddle` in his profile x3
+He has a little `hidden` `riddle` on his profile x3
 
 # my ascii arts
 ```sh
